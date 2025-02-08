@@ -69,7 +69,7 @@ I was in charge of ...
 <h2>Bearing Calculation & Selection</h2>
 <br />
 
-<h2>Full Project Report</h2> (https://github.com/CristianAC16/SingleStageReductionGearbox/blob/c0ab4d610bdbdcf2d95b76e420d7403df2812088/344%20-%20Team%20%232%20-%20Gearbox%20Project.pdf)
+<h2><a href="https://github.com/CristianAC16/SingleStageReductionGearbox/blob/c0ab4d610bdbdcf2d95b76e420d7403df2812088/344%20-%20Team%20%232%20-%20Gearbox%20Project.pdf">Full Project Report</a></h2>
 <br />
 <br />
 
