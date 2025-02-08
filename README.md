@@ -16,13 +16,10 @@ These 5 steps were considered:
 
 5.  Safety Factors and Durability: <br /> The factor of safety of ≥ 2 for shaft diameters at critical points is required, and all components must be designed for a 99% reliability factor.
 
-I was in charge of ...
+<h2>I was in charge of ...</h2>
+<h3>CAD Design</h3>
 <br />
 
-
-<h2>CAD Design</h2>
-
-<br />
 <p align="center">
 <img src="https://i.imgur.com/Xuzm5eB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/> Gearbox
@@ -53,7 +50,7 @@ I was in charge of ...
 <br />
 <br />
   
-<h2>Shear Force and Moment Diagrams for both Shafts</h2>
+<h3>Shear Force and Moment Diagrams for both Shafts</h3>
 
 <br />
 <p align="center">
@@ -66,10 +63,10 @@ I was in charge of ...
 <br />
 <br />
 
-<h2>Bearing Calculation & Selection</h2>
+<h3>Bearing Calculation & Selection</h3>
 <br />
 
-<h2><a href="https://github.com/CristianAC16/SingleStageReductionGearbox/blob/c0ab4d610bdbdcf2d95b76e420d7403df2812088/344%20-%20Team%20%232%20-%20Gearbox%20Project.pdf">Full Project Report</a></h2>
+<h2><a href="https://github.com/CristianAC16/SingleStageReductionGearbox/blob/c0ab4d610bdbdcf2d95b76e420d7403df2812088/344%20-%20Team%20%232%20-%20Gearbox%20Project.pdf">Click for Full Project Report</a></h2>
 <br />
 <br />
 
